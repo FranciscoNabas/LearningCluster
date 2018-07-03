@@ -10,9 +10,6 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //Teste programa básico
-            Console.WriteLine("Teste");
-            Console.ReadLine();
         }
     }
 }
