@@ -26,7 +26,7 @@
     <input type="button" value="Imprimir EPL" onclick="ImprimeEpl(document.getElementById('codigoepl').value)" /><br/>
     <textarea id="codigoepl" cols="40" rows="20">A500,100,0,2,1,1,N,"TESTE"
 P1,1
-N
+<LF>N
 
     </textarea>
 </html>
