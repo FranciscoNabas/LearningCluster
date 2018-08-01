@@ -58,6 +58,8 @@ namespace WindowsFormsApplication2
                 {
                     MessageBox.Show(outputItem.BaseObject.ToString() + "\n");
                 }
+                textBox1.Clear();
+                textBox2.Clear();
             }
         }
 
